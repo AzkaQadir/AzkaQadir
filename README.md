@@ -11,7 +11,7 @@ MS AI student who gets unreasonably attached to making things actually work.
 Whisper + Pyannote + distilRoBERTa + LangChain + ChromaDB → turns any meeting recording into transcripts, speaker-level emotion analysis, action items, and a RAG-powered Q&A chatbot. Runs locally via Ollama or in the cloud via OpenAI. Dockerized, deployed on HuggingFace Spaces.  
 `Python` `LangChain` `RAG` `Whisper` `Docker` `HuggingFace`
 
-**[Multimodal Fallacy Detection](https://github.com/AzkaQadir/MultimodelFalacyDetection)** — NLP + Audio  
+**[Multimodal Fallacy Detection](https://github.com/AzkaQadir/multimodal-fallacy-detection)** — NLP + Audio  
 Fused WavLM (audio) and RoBERTa (text) to detect and classify argumentative fallacies in political speech. F1: 0.90 on binary detection, 0.65 on 6-class classification.  
 `PyTorch` `HuggingFace` `WavLM` `RoBERTa` `Multimodal`
 
