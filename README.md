@@ -21,7 +21,7 @@ Detecting when a claim isn't supported by its evidence is the same problem as
 detecting when a model output isn't grounded in its source.
 `PyTorch` `HuggingFace` `WavLM` `RoBERTa` `Multimodal`
 
-**[BioASQ 14b — Biomedical QA]([BIOASQ_LINK](https://github.com/AzkaQadir/bioasq14b-phaseB))** — LLMs on a Budget
+**[BioASQ 14b — Biomedical QA]([BIOASQ_LINK](https://github.com/AzkaQadir/bioasq14b-phaseB)** — LLMs on a Budget
 4-bit quantized Mistral-7B with TF-IDF retrieval and few-shot prompting, no
 fine-tuning. Yes/no macro-F1 of 0.9549 against a batch majority of 0.9377.
 ROUGE-2 and ROUGE-SU4 implemented from scratch, plus ablations and schema-validated
