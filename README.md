@@ -5,7 +5,7 @@ Hi, I'm Azka 👋
 MS AI student who gets unreasonably attached to making things actually work.
 
 
-## 🔨 What I've Built
+##  What I've Built
 
 **[MeetMind](https://github.com/AzkaQadir/MeetMind)** — AI Meeting Intelligence System
 Whisper + Pyannote + distilRoBERTa + LangChain + ChromaDB → turns any meeting
@@ -34,7 +34,7 @@ Best model: mAP@0.5 of 0.58, precision 0.75. Mosaic, MixUp and CutMix augmentati
 with training configs held constant across models for a fair comparison.
 `YOLOv8` `YOLOv11` `OpenCV` `Ultralytics` `PyTorch`
 
-## 🧠 Stack
+##  Stack
 
 ```
 Languages     Python · SQL
@@ -48,7 +48,7 @@ Data          Pandas · NumPy · Matplotlib · Seaborn · Power BI
 Tools         Git · Claude Code · Kaggle · Colab · Label Studio · LaTeX
 ```
 
-## 📜 Certifications
+##  Certifications
 
 AWS AI & ML Scholars (Udacity, 2026) · AWS AI Practitioner Challenge (Udacity, 2026)
 
